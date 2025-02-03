@@ -1,4 +1,4 @@
-## Biodata
+## BIODATA
 -Nama = Isti Inayatul Mukaromah
 -Kelas = 12 TKJ 1
 -Tempat, Tanggal lahir = Banjarnegara, 27 Maret 2007
